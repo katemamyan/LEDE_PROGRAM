@@ -71,6 +71,6 @@ nyc_boroughs["Brooklyn"]
 print(f'The population of all five boroughs is {sum(nyc_boroughs.values())} million')
 
 # Display what percent of NYC's population lives in Manhattan.
-print(f'The population in Manhattan is{nyc_boroughs["Manhattan"]/(sum(round(nyc_boroughs.values()), start=1))}% of NYC population')
+print(f'The population in Manhattan is {nyc_boroughs["Manhattan"]/(int(sum(nyc_boroughs.values())))*100}% of NYC population')
 
 # %%
