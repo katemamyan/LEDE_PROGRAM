@@ -1,9 +1,9 @@
 # LEDE_PROGRAM
 lede2025_repo
 
-# 🗽 Lede Program 2025 – My Data Journalism Journey
+# 🗽 Lede Program 2025 - My Data Journalism Journey
 
-Welcome to my GitHub repository dedicated to the [Lede Program 2025](https://journalism.columbia.edu/lede-program) – a 10-week intensive data journalism course at Columbia University. This program brings together coding, data analysis, and journalistic storytelling, and this space is where I’ll be documenting my progress.
+Welcome to my GitHub repository dedicated to the [Lede Program 2025](https://ledeprogram.com/) - a 10-week intensive data journalism course at Columbia University. This program brings together coding, data analysis, and journalistic storytelling, and this space is where I’ll be documenting my progress.
 
 ## 📚 About the Program
 The Lede Program is designed for journalists who want to expand their technical skill set. Over the summer, we dive deep into:
@@ -23,7 +23,7 @@ This repository contains:
 - ✨ Notes, snippets, and lessons learned
 
 ## 🧭 Why I'm Doing This
-This is more than just a course—it's a personal challenge, a creative journey, and a career leap. I’ll be learning, failing, debugging, and growing publicly here. If you’re also learning data journalism or just curious about the process, I hope this repo helps or inspires you.
+This is more than just a course - it's a personal challenge, a creative journey, and a career leap. I’ll be learning, failing, debugging, and growing publicly here. If you’re also learning data journalism or just curious about the process, I hope this repo helps or inspires you.
 
 ## 🗺️ Projects & Highlights (will be updated)
 
