@@ -32,11 +32,11 @@
       // Step 3. add data variables
       const bezosCost = 56,// 56, 
             bezosWealth = 236000,// 236000,
-            averageCost = 7375,// 0.033, 
+            averageCost = 40374,// 0.033, 
             averageWealth = 236000// 0.1929;
       
       // Step 4. transform data into usable scales
-      const scaleRadius = d3.scaleSqrt().domain([0, bezosWealth]).range([0, 100]);
+      const scaleRadius = d3.scaleSqrt().domain([0, bezosWealth]).range([0, 100]); //domain takes the smallest and biggest numbers in your visualization
       
       // Step 5. create an SVG container inside #my-svg-chart using d3.select().append()
       const myChart = d3.select('#my-svg-chart')
