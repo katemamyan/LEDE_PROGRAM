@@ -27,7 +27,9 @@ This is more than just a course - it's a personal challenge, a creative journey,
 
 ## 🗺️ Projects & Highlights (updating)
 
-Heeey, friends! I'm done with my first [project](https://katemamyan.github.io/PetrosGhazatyanShow/). All details are here [Petros Ghazaryan's Show Projcet](https://github.com/katemamyan/PetrosGhazatyanShow)
+Hey, friends! I'm done with my first [project](https://katemamyan.github.io/PetrosGhazatyanShow/). 
+All details are here [Proj_01 Repo](https://github.com/katemamyan/PetrosGhazatyanShow)
+
 
 
 ## 📫 Connect with Me
