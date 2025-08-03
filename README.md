@@ -25,7 +25,11 @@ This repository contains:
 ## 🧭 Why I'm Doing This
 This is more than just a course - it's a personal challenge, a creative journey, and a career leap. I’ll be learning, failing, debugging, and growing publicly here. If you’re also learning data journalism or just curious about the process, I hope this repo helps or inspires you.
 
-## 🗺️ Projects & Highlights (will be updated)
+## 🗺️ Projects & Highlights (updating)
+
+Hey, friends! I'm done with my first [project](https://katemamyan.github.io/PetrosGhazatyanShow/). 
+All details are here [Proj_01 Repo](https://github.com/katemamyan/PetrosGhazatyanShow)
+
 
 
 ## 📫 Connect with Me
